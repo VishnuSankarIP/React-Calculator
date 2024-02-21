@@ -13,12 +13,12 @@ input{
   color: olive;
 }
 .mul,.div,.sub,.add,.equ{
-  background-color:  orange;
+  background-color:  #2b2b2b;
   color: white;
 }
 button{
   background-color: whitesmoke;
-  color: orange;
+  color: #2b2b2b;
  
 }
 .ac,.del{
