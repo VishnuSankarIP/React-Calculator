@@ -31,7 +31,7 @@ function MainPage() {
     return (
         <>
             <div className="cc  mt-5 " >
-                <Card style={{ width: '24rem' }}>
+                <Card style={{ width: '24rem',backgroundColor:'#2b2b2b' }}>
 
                     <Card.Body>
 
